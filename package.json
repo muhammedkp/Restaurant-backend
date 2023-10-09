@@ -1,0 +1,14 @@
+{
+  "name": "restaurant-server",
+  "version": "1.0.0",
+  "description": "restaurant listing app",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "author": "mohd kp",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
